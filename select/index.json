@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Quiero Perderme Contigo",
+  "base_artist": "José José",
+  "createdAt": "2026-02-13T04:38:09.844161Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Quiero Perderme Contigo",
+      "artist": "José José",
+      "has_synced": true,
+      "path": "select/01_Quiero_Perderme_Contigo_José_José.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Quiero Perderme Contigo (Letra / Lyrics)",
+      "artist": "José José",
+      "has_synced": true,
+      "path": "select/02_Quiero_Perderme_Contigo_(Letra___Lyrics)_José_José.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Quiero Perderme Contigo (Letra / Lyrics)",
+      "artist": "José José",
+      "has_synced": true,
+      "path": "select/03_Quiero_Perderme_Contigo_(Letra___Lyrics)_José_José.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Quiero Perderme Contigo",
+      "artist": "José José",
+      "has_synced": true,
+      "path": "select/04_Quiero_Perderme_Contigo_José_José.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Quiero Perderme Contigo (Remasterizado)",
+      "artist": "José José",
+      "has_synced": true,
+      "path": "select/05_Quiero_Perderme_Contigo_(Remasterizado)_José_José.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Quiero perderme contigo",
+      "artist": "Tito Nieves",
+      "has_synced": false,
+      "path": "select/06_Quiero_perderme_contigo_Tito_Nieves.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Quiero Perderme Contigo",
+      "artist": "Juan Carlos Norona",
+      "has_synced": false,
+      "path": "select/07_Quiero_Perderme_Contigo_Juan_Carlos_Norona.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Quiero Perderme Contigo (Cover Audio)",
+      "artist": "José José",
+      "has_synced": true,
+      "path": "select/08_Quiero_Perderme_Contigo_(Cover_Audio)_José_José.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "José José - Quiero Perderme Contigo (Cover Audio)",
+      "artist": "José José",
+      "has_synced": true,
+      "path": "select/09_José_José_-_Quiero_Perderme_Contigo_(Cover_Audio)_José_José.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Quiero Perderme Contigo",
+      "artist": "Ramon Ayala Jr.",
+      "has_synced": false,
+      "path": "select/10_Quiero_Perderme_Contigo_Ramon_Ayala_Jr..txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Quiero Perderme Contigo",
+      "artist": "José José • 217M plays",
+      "has_synced": true,
+      "path": "select/11_Quiero_Perderme_Contigo_José_José_•_217M_plays.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Quiero Perderme Contigo",
+      "artist": "José José • 218M plays",
+      "has_synced": true,
+      "path": "select/12_Quiero_Perderme_Contigo_José_José_•_218M_plays.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Quiero Perderme Contigo",
+      "artist": "José José • 219M plays",
+      "has_synced": true,
+      "path": "select/13_Quiero_Perderme_Contigo_José_José_•_219M_plays.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Quiero Perderme Contigo",
+      "artist": "El Vayven Del Amor",
+      "has_synced": false,
+      "path": "select/14_Quiero_Perderme_Contigo_El_Vayven_Del_Amor.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Quiero Perderme Contigo",
+      "artist": "José José • 221M plays",
+      "has_synced": true,
+      "path": "select/15_Quiero_Perderme_Contigo_José_José_•_221M_plays.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Quiero Perderme Contigo",
+      "artist": "José José • 222M plays",
+      "has_synced": true,
+      "path": "select/16_Quiero_Perderme_Contigo_José_José_•_222M_plays.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Quiero Perderme Contigo",
+      "artist": "José José • 223M plays",
+      "has_synced": true,
+      "path": "select/17_Quiero_Perderme_Contigo_José_José_•_223M_plays.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Quiero Perderme Contigo",
+      "artist": "José José • 216M plays",
+      "has_synced": true,
+      "path": "select/18_Quiero_Perderme_Contigo_José_José_•_216M_plays.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Quiero Perderme Contigo",
+      "artist": "José José",
+      "has_synced": false,
+      "path": "select/pl_01_Quiero_Perderme_Contigo_José_José.txt"
+    }
+  ]
+}
